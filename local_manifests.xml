@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/qcom/sepolicy" name="proton-vayu/android_device_qcom_sepolicy" remote="github-ssh" revision="sc" />
-  <project path="device/qcom/sepolicy_vndr" name="proton-vayu/android_device_qcom_sepolicy_vndr" remote="github-ssh" revision="sc" />
-  <project path="device/xiaomi/vayu" name="proton-vayu/android_device_xiaomi_vayu.git" remote="github-ssh" revision="sc" />
-  <project path="vendor/xiaomi/vayu" name="proton-vayu/android_vendor_xiaomi_vayu.git" remote="github-ssh" revision="sc" />
-  <project path="kernel/xiaomi/vayu" name="proton-vayu/android_kernel_xiaomi_vayu.git" remote="github-ssh" revision="sc" />
-  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="proton-vayu/android_hardware_qcom_audio.git" remote="github-ssh" revision="sc" />
-  <project path="hardware/qcom/media" name="proton-vayu/android_hardware_qcom_media.git" remote="github-ssh" revision="sc" />
-  <project path="hardware/qcom/display" name="proton-vayu/android_hardware_qcom_display.git" remote="github-ssh" revision="sc" />
-  <project path="hardware/xiaomi" name="proton-vayu/android_hardware_xiaomi" remote="github-ssh" revision="sc" /> 
+  <project path="device/qcom/sepolicy" name="proton-vayu/android_device_qcom_sepolicy" remote="github-ssh" revision="tm" />
+  <project path="device/qcom/sepolicy_vndr" name="proton-vayu/android_device_qcom_sepolicy_vndr" remote="github-ssh" revision="tm" />
+  <project path="device/xiaomi/vayu" name="proton-vayu/android_device_xiaomi_vayu.git" remote="github-ssh" revision="tm" />
+  <project path="vendor/xiaomi/vayu" name="proton-vayu/android_vendor_xiaomi_vayu.git" remote="github-ssh" revision="tm" />
+  <project path="kernel/xiaomi/vayu" name="proton-vayu/android_kernel_xiaomi_vayu.git" remote="github-ssh" revision="tm" />
+  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="proton-vayu/android_hardware_qcom_audio.git" remote="github-ssh" revision="tm" />
+  <project path="hardware/qcom/media" name="proton-vayu/android_hardware_qcom_media.git" remote="github-ssh" revision="tm" />
+  <project path="hardware/qcom/display" name="proton-vayu/android_hardware_qcom_display.git" remote="github-ssh" revision="tm" />
 
 </manifest>
